@@ -66,10 +66,10 @@ You should be using Mason because:
 
 ## Getting started
 
-- Check the [feature list](https://github.com/JornWildt/Mason/wiki/Mason-features).
-- Download the [generic client](https://github.com/JornWildt/Mason/wiki/Generic-Mason-browser) for improved browsing experience.
-- Explore the [demo implementation](https://github.com/JornWildt/Mason/wiki/Example-service%3A-issue-tracker) of a fictitious issue tracker service.
-- Read the [format specification](https://github.com/JornWildt/Mason/wiki/mason-format-specification).
+- Check the [feature list](https://github.com/madjazz/Mason/wiki/Mason-features).
+- Download the [generic client](https://github.com/madjazz/Mason/wiki/Generic-Mason-browser) for improved browsing experience.
+- Explore the [demo implementation](https://github.com/madjazz/Mason/wiki/Example-service%3A-issue-tracker) of a fictitious issue tracker service.
+- Read the [format specification](https://github.com/madjazz/Mason/wiki/mason-format-specification).
 - Sign up for the [discussion group](https://groups.google.com/d/forum/mason-media-type).
 - Check out the [Mason Cookbook](https://github.com/JornWildt/MasonCookBook).
 

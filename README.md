@@ -120,4 +120,4 @@ The major differentiators between Mason and the other formats are:
 - Mason defines a way to reduce the payload for machine-to-machine (M2M) communication.
 - Mason has a predefined set of properties for error handling.
 
-See also why phone.com chose Mason over the other types: https://www.phone.com/selecting-data-type-for-restful-api/s
+See also why phone.com chose Mason over the other types: https://www.phone.com/selecting-data-type-for-restful-api/
